@@ -21,7 +21,7 @@ def DrowsinessModel(json_file, weights_file):
 
     return model
 detector = dlib.get_frontal_face_detector()
-predictor = dlib.shape_predictor("C:/Users/Neha/Desktop/Drowsiness/shape_predictor_68_face_landmarks.dat")  # Replace with the actual path
+predictor = dlib.shape_predictor("C:/Users/Neha/Desktop/Drowsiness/shape_predictor_68_face_landmarks.dat")
 
 
 
