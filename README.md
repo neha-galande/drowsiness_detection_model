@@ -4,6 +4,7 @@ The working model is saved as model_weights.h5 file.
 
 The gui file is saved as eyes.py.
 
+This is the link for demonstration video of working model--
 
 #To use the drowsiness detection model, follow the given steps:
 
